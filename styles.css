@@ -1,0 +1,37 @@
+body{
+	background-color: #ffcdd2 ;
+}
+
+div.btn-group {
+    
+    width: inherit;
+    display: inline-block;
+}
+
+.imagen{
+	border-radius: 50%;
+	width: 5rem;
+	float: right;
+	
+}
+
+.check{
+	float: left;
+}
+
+.texti{
+	font-family: 'Roboto';
+	font-size: 1rem;
+	color: #dc3545;
+	margin-bottom: 8px;
+	margin-top: 5px;
+}
+
+.prueba{
+	margin-left: 10rem;
+}
+
+.status{
+	font-size: 14px;
+	color: #6d6767;
+}
